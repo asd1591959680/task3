@@ -1,0 +1,32 @@
+
+.logo-left {
+position: relative;
+margin-top: 30%;
+margin-left: 10%;
+margin-bottom: 20%;
+font-size: 1.5em;
+float: left;
+color: white;
+}
+.logo-right {
+position: relative;
+margin-top: 30%;
+margin-right: 10%;
+margin-bottom: 20%;
+font-size: 1.5em;
+float: right;
+color: white;
+}
+.center {
+text-align: center
+}
+.content {
+margin:10%;
+font-size: 2.0em;
+color: white;
+}
+.back {
+margin-top: 1%;
+margin-left: 1%;
+margin-bottom: 20%;
+}
